@@ -13,9 +13,7 @@
 
 ## Analysis and Challenges
 
-    I was able to do my analysis by creating two charts to visualize the data requested, which can be found
-     
-    [here](github.com/jayhawkerfan84/kickstarter-analysis/tree/main/resource). I found it hard to come to a
+    I was able to do my analysis by creating two charts to visualize the data requested. I found it hard to come to a
     
      conclusions just because of the lack of context or domain knowledge around the dataset. I think I would need to
      
@@ -25,8 +23,6 @@
 
 
 ### Analysis of Outcomes Based on Launch Date
-
-    ![Outcomes Based on Launch Date Graph](https://github.com/jayhawkerfan84/kickstarter-analysis/blob/main/resource/Theater%20outcomes%20chart.png)
 
 
     Reviewing the data I saw that the summer months had far more successes. Which got me to thinking, does weather
