@@ -26,7 +26,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-    ![Outcomes Based on Launch Date Graph](kickstarter-analysis/blob/main/resource/Theater%20outcomes%20chart.png)
+    ![Outcomes Based on Launch Date Graph](jayhawkerfan84/kickstarter-analysis/blob/main/resource/Theater%20outcomes%20chart.png)
 
 
     Reviewing the data I saw that the summer months had far more successes. Which got me to thinking, does weather
