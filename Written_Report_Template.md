@@ -24,6 +24,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Outcomes Based on Launch Date](https://github.com/jayhawkerfan84/kickstarter-analysis/blob/main/resource/Theater%20outcomes%20chart.png) 
 
     Reviewing the data I saw that the summer months had far more successes. Which got me to thinking, does weather
     
@@ -33,6 +34,8 @@
 
 
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes v Goals](https://github.com/jayhawkerfan84/kickstarter-analysis/blob/main/resource/Outcomes%20vs%20Goals.png)
 
 
     What stands out to me with this dataset is that the smaller dollar goals performed the best. The large dollar
